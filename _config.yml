@@ -1,10 +1,10 @@
 theme: jekyll-theme-cayman
 title: Tensegrity Robotics
 description: This webpage intends to list papers related to Tensegrity Robotics, links to tutorials and workshops, and pointers to existing implementations of Tensegrities.
-plugins:
-  - jekyll-relative-links
 github:
   is_project_page: false
+plugins:
+  - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
