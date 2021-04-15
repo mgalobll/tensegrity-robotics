@@ -1,13 +1,13 @@
 docs:
 
 - pagetitle: About
-  url: /
+  url: /index.md
 
 - pagetitle: Papers
-  url: /papers
+  url: /papers.md
 
 - pagetitle: Tutorials
-  url: /tutorials
+  url: /tutorials.md
 
 - pagetitle: Libraries
-  url: /libraries  
+  url: /libraries.md  
