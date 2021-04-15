@@ -11,3 +11,6 @@ kramdown:
   parse_block_html: true
 include:
   - index.md
+  - libraries.md
+  - papers.md
+  - tutorials.md
