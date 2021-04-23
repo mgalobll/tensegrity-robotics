@@ -1,13 +1,17 @@
 docs:
 
-- pagetitle: About
-  url: /
+- layout: page
+  title: "About"
+  permalink: /
 
-- pagetitle: Papers
-  url: /papers
+- layout: page
+  title: "Papers"
+  permalink: /papers/
 
-- pagetitle: Tutorials
-  url: /tutorials
+- layout: page
+  title: "Tutorials"
+  permalink: /tutorials/
 
-- pagetitle: Libraries
-  url: /libraries
+- layout: page
+  title: "Libraries"
+  permalink: /libraries/
