@@ -1,13 +1,13 @@
 docs:
 
-- title: About
+- pagetitle: About
   permalink: /
 
-- title: Papers
+- pagetitle: Papers
   permalink: /papers/
 
-- title: Tutorials
+- pagetitle: Tutorials
   permalink: /tutorials/
 
-- title: Libraries
+- pagetitle: Libraries
   permalink: /libraries/
