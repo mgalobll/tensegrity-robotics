@@ -1,3 +1,7 @@
+layout: page
+title: "Libraries"
+permalink: /libraries/
+
 # Libraries & source code
 
 
