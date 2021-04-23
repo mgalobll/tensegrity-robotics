@@ -1,3 +1,7 @@
+layout: page
+title: "About"
+permalink: /
+
 # About
 
 Living organisms intertwine soft (e.g., muscle) and hard (e.g., bones) materials, giving them an intrinsic flexibility and resiliency often lacking in conventional rigid robots. The emerging field of soft robotics seeks to harness these same properties to create resilient machines. 
