@@ -1,17 +1,17 @@
 docs:
 
 - layout: page
-  title: "About"
+  title: About
   permalink: /
 
 - layout: page
-  title: "Papers"
+  title: Papers
   permalink: /papers/
 
 - layout: page
-  title: "Tutorials"
+  title: Tutorials
   permalink: /tutorials/
 
 - layout: page
-  title: "Libraries"
+  title: Libraries
   permalink: /libraries/
