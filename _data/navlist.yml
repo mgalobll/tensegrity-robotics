@@ -1,13 +1,13 @@
 docs:
 
 - pagetitle: About
-  url: /index.md
+  url: /mgalobll/tensegrity-robotics/blob/main/index.md
 
 - pagetitle: Papers
-  url: /papers.md
+  url: /mgalobll/tensegrity-robotics/blob/main/papers.md
 
 - pagetitle: Tutorials
-  url: /tutorials.md
+  url: /mgalobll/tensegrity-robotics/blob/main/tutorials.md
 
 - pagetitle: Libraries
-  url: /libraries.md
+  url: /mgalobll/tensegrity-robotics/blob/main/libraries.md
