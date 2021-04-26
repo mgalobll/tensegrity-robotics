@@ -14,9 +14,6 @@ kramdown:
 include:
   - CONTRIBUTING.md
   - index.md
-  - libraries.md
-  - papers.md
-  - tutorials.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
